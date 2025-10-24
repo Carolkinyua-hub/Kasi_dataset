@@ -1,46 +1,43 @@
-Survey Data Analysis & Dashboard
+Survey Data Analysis
 
-Overview:
-This repository provides a comprehensive analysis of a global survey on economic sentiment, spending behavior, and banking preferences. It includes cleaned data, statistical insights, and an interactive one-page summary.
+A complete pipeline for cleaning, analyzing, and visualizing global survey data on economic sentiment, spending behavior, and banking preferences. Includes cleaned datasets, statistical analysis, pivot tables, and a one-page dashboard with key insights.
 
-Contents:
+Features
 
-Raw Data: raw_survey_data.csv – Original survey dataset.
+Data Cleaning: Remove duplicates, standardize columns, combine multiple bank-related questions.
 
-Cleaned & Combined Data: cleaned_data.xlsx – English-only, duplicates removed, combined bank columns.
+Analysis: Pivot tables by country and gender, Chi-square tests, 95% confidence intervals.
 
-Analysis Summary: analysis_summary.xlsx – Pivot tables by country and gender, statistical tests (Chi-square, 95% CI), charts.
+Dashboard: One-page visual summary of insights.
 
-One-Pager Dashboard: View Canva One-Pager
- – Key insights summarised.
+Automation: Python scripts for repeatable cleaning and analysis; Excel macros optional for pivot updates.
 
-Python Scripts: scripts/ – Automates data cleaning, pivot summaries, and statistical analysis.
+Files
 
-Google Colab Notebook: Open Colab
- – Reproducible analysis environment.
+raw_survey_data.csv – Original survey dataset.
 
-Key Features:
+cleaned_data.xlsx – English-only, cleaned, combined dataset.
 
-Data cleaning and standardization for easy reuse.
+analysis_summary.xlsx – Pivot tables, statistical results, charts.
 
-Combined multiple bank-related columns into a single primary_bank.
+scripts/ – Python scripts for data processing and analysis.
 
-Pivot tables and charts for country and gender comparisons.
+One-Pager Dashboard: Canva Link
 
-Statistical analysis: Chi-square tests, confidence intervals, effect sizes.
+Colab Notebook: Open in Google Colab
 
-Automated workflow ready for new survey data.
+Usage
 
-Automation Options:
+Open the Colab notebook to run analysis or modify for new survey data.
 
-Python: Full pipeline for cleaning, merging, analysis, and Excel export.
+View the Canva one-pager for a quick visual summary.
 
-Excel Macros: Automate duplicate removal, pivot table creation, and dashboard updates.
+Explore Excel files for detailed pivot tables and statistics.
 
-Usage:
+Recommendations
 
-Open the Colab notebook to run the analysis or modify for new data.
+Use Python scripts to automate cleaning and analysis for future surveys.
 
-Access the Canva one-pager for a visual summary of key insights.
+Use Excel macros for automated pivot table and chart updates.
 
-Use the Excel files for detailed pivot tables and statistics.
+Tailor marketing, service, and interface strategies based on gender and country insights.
