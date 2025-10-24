@@ -1,0 +1,24 @@
+,,,
+,,,
+,,Assignment: Data Analysis ,
+,,,
+,,Goal,"This assignment will test your ability to manipulate, transform and clean data - analyze and summarize findings"
+,,,
+, ,The raw data is a survey based data collected in several countries in Africa,
+,,The survey is in French and English,
+,,,
+,,You are required to:,
+,,,
+,,,1. Describe the dataset 
+,,,"2. Perform data cleaning (remove duplicates, erroneous entries, etc.)"
+,,,"3. Clean, combine the questions into 1 english only dataset"
+,,,4. Summarize the results using pivot table
+,,,By country
+,,,By gender
+,,,"5. Perform statistical analysis and provide results (confidence level, etc.)"
+,,,
+,,Provide the output in one spreadsheet,
+,,,
+,,"Provide recommendation on how to automate the data cleaning process using tools you have learned (macro, python, etc.)",
+,,,
+,,You have until Tuesday October 21 to provide your assignment,
