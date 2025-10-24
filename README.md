@@ -11,7 +11,7 @@
 - `analysis_summary.xlsx` – Pivot tables, statistical results, charts.
 - `scripts/` – Python scripts for data processing and analysis.
 - **One-Pager :** [View Canva One-Pager](https://www.canva.com/design/DAG2vAouyF8/RxjaDNCIKxg1XWOzvyJFeg/view)
-- **Colab Notebook:** [Open in Google Colab](https://colab.research.google.com/)
+- **Colab Notebook:** [Open in Google Colab](https://github.com/Carolkinyua-hub/Kasi_dataset/blob/8eb1bd10e86885ed052cc2653cf966e085369a3f/Kasi_Caroline_Kinyua.ipynb)
 
 ## Usage
 1. Open the **Colab notebook** to run the analysis or modify for new survey data.
